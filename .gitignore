@@ -1,0 +1,29 @@
+# 依賴
+node_modules/
+
+# 編譯產出
+dist/
+build/
+
+# 環境變數
+.env
+.env.local
+.env.*.local
+
+# 日誌
+logs/
+*.log
+npm-debug.log*
+
+# 測試覆蓋率報告
+coverage/
+
+# IDE 和編輯器
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 操作系統
+.DS_Store
+Thumbs.db 
